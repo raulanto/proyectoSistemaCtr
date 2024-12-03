@@ -3,19 +3,19 @@ const items = ref([
     {
         label: 'Blog',
         icon: 'i-lucide-book-open',
-        to: '/getting-started',
+        to: '/blog',
 
     },
     {
         label: 'Inicio',
         icon: 'i-lucide-database',
-        to: '/composables',
+        to: '/',
 
     },
     {
         label: 'Iniciar',
         icon: 'i-lucide-box',
-        to: '/components',
+        to: '/author/login',
 
     },
 
